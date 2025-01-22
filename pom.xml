@@ -71,7 +71,7 @@
     </plugins>
   </reporting>
   <scm>
-        <connection>scm:git:git://https://github.com/Thioro836/tp1maven/repository1/monappli</connection>
-        <url>http://https://github.com/Thioro836/tp1maven/svn/monappli-web</url>
+        <connection>scm:git:git://https://git@github.com:Thioro836/tp1maven.git/repository1/monappli</connection>
+        <url>http://git@github.com:Thioro836/tp1maven.git/svn/monappli-web</url>
     </scm>
 </project>
